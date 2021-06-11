@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>Stray Bombay</title>
+  <based-in>Seattle</based-in>
+  <founding-date>2018</founding-date>
+  <website>https://straybombay.com</website>
+  <press-contact>
+    press@straybombay.com
+  </press-contact>
+
+  <socials>
+    <social>
+      <name>Discord</name>
+      <link>
+        https://discord.gg/straybombay
+      </link>
+    </social>
+	<social>
+      <name>Twitter</name>
+      <link>
+        https://twitter.com/straybombay
+      </link>
+    </social>
+	<social>
+      <name>YouTube</name>
+      <link>
+        https://youtube.com/c/StrayBombay
+      </link>
+    </social>
+  </socials>
+
+  <description>We're a small studio making big games. With a focus on social and cooperative game design, we're focused on building the types of places that people want to inhabit, not just play in. We think now is the time to change the culture of game development, by making everyone equals, not just in their impact on a project, but in how we divide the rewards from our success.</description>
+
+<trailers>
+    <trailer>
+      <name>The Anacrusis Announce Trailer</name>
+      <youtube>
+        j1b78SCATeY
+      </youtube>
+    </trailer>
+  </trailers>
+
+<credits>
+    <credit>
+      <person>Chet Faliszek</person>
+      <role>CEO + Co-Founder</role>
+
+      <!-- Optional: 
+      <website></website>-->
+    </credit>
+	<credit>
+      <person>Dr. Kimberly Voll</person>
+      <role>Co-Founder + AI Developer</role>
+
+      <!-- Optional: 
+      <website></website>-->
+    </credit>
+  </credits>
+
+</company>
