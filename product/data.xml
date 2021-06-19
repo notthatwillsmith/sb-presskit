@@ -4,8 +4,8 @@
   <release-date>Fall 2021</release-date>
   <website>https://theanacrusis.com</website>
 
-  <!-- Link to request press copy: 
-  <press-copy-request>mailto:press@straybombay.com&subject=Press%20Copy</press-copy-request>-->
+  
+  <press-copy-request>https://forms.gle/qjGpmZHjRUgzbrE48</press-copy-request>
 
   <platforms>
     <platform>
@@ -28,7 +28,10 @@
   <description>The Anacrusis is a four-player, cooperative first-person shooter set aboard a massive starship stranded at the edge of explored space. Team up with your friends in an infinitely-replayable fight against alien hordes to unlock perks, weapons, and new ways to play that you can share with your team! </description>
 
 
-  <history>Starting with a conversation about co-op games in 2018, Kim and Chet realized they had a shared affinity for social game experiences. The result, after starting a company, building a team, and working for two years, is The Anacrusis.</history>
+  <history>Starting with a small team of 6 in 2019, The Anacrusis has always been about players working together for a shared goal.  Constant playtesting and iterating on user feedback has been the foundation of building out the game and adding features.
+
+The Anacrusis is the meeting of modern co-op game design with the vibe of late 60s and early 70s sci-fi television shows and movies. The Anacrusis embraces the optimism represented by the design of that era—smooth curves and crisp line art—despite the apocalyptic setting of a massive alien attack. The design of The Anacrusis is co-op first, meaning every player action in the game is designed to foster cooperation among the players, no matter how diverse their skill or experience level is.  
+</history>
 
 <features>
     <feature>The Anacrusis is a four-player, cooperative first-person shooter set aboard a massive starship stranded at the edge of explored space. Team up with your friends in an infinitely-replayable fight against alien hordes to unlock perks, weapons, and new ways to play that you can share with your team!
@@ -117,7 +120,7 @@ The Anacrusis will be coming to Steam, Xbox Series S|X, Xbox One, Epic Game Stor
       <name>Will Smith</name>
 
       <!-- Pick one: -->
-      <mail>press@straybombay.com</mail>
+      <link>https://forms.gle/Uzq377za7RZ5pwKP8</link>
     </contact>
   </contacts>
 </product>
